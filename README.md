@@ -23,11 +23,11 @@ Los fuertes vientos, caracteristicos de la temporada seca favorecen la circulaci
 ### DIAGRAMAS HOVMOLLER :bar_chart: :ocean: :earth_americas:
 
 
-The Hovmoller diagram is one of the appropriate options to present a time series. It allows a clearer visualization of the data, compared to a graph of a conventional time series where the timeline is shown on the X axis and the variable to be displayed on the Y axis. In this Hovmoller diagram is presented; on the Y axis, the years of the time series, on the X axis, the months of the year and on the color bar, the variable (Surface Temperature of the Sea).
+Hovmoller diagram is one of the appropriate options to present a time series. It allows a clearer visualization of the data, compared to a graph of a conventional time series where the timeline is shown on the X axis and the variable to be displayed on the Y axis. In this Hovmoller diagram is presented; on the Y axis, the years of the time series, on the X axis, the months of the year and on the color bar, the variable (Surface Temperature of the Sea).
 
 [![](https://github.com/mhurtado28/Hovmoller-figure---Data-Ocean/blob/main/hovmoller_SST.jpg?raw=true)](https://github.com/mhurtado28/Hovmoller-figure---Data-Ocean/blob/main/hovmoller_SST.jpg?raw=true)
 
-This diagram corresponds to a time series of 18 years (2003-2020). The area corresponding to these data is the eastern coastal zone of the Tayrona National Natural Park, Santa Marta, Colombia. (74W 11N; 73W 11N).
+Figure corresponds to a time series of 18 years (2003-2020). The area corresponding to these data is the eastern coastal zone of the **Tayrona National Natural Park**, Santa Marta, Colombia. (74W 11N; 73W 11N).
 
 #### Annual cycle :chart_with_upwards_trend:
 
