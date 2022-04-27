@@ -5,7 +5,7 @@ El diagrama Hovmoller es una de las opciones adecuada para presentar una serie d
 
 [![](https://github.com/mhurtado28/Hovmoller-figure---Data-Ocean/blob/main/hovmoller_SST.jpg?raw=true)](https://github.com/mhurtado28/Hovmoller-figure---Data-Ocean/blob/main/hovmoller_SST.jpg?raw=true)
 
-Este diagrama corresponde a una serie de tiempo de 18 años (2003-2020). El área correspondiente a estos datos es la zona costera oriental del [**Parque Nacional Natural Tayrona**](http://https://www.parquesnacionales.gov.co/portal/es/ecoturismo/parques/region-caribe/parque-nacional-natural-tayrona/ "**Parque Nacional Natural Tayrona**"), Santa marta, colombia. (74W 11N; 73W 11N). 
+Este diagrama corresponde a una serie de tiempo de 18 años (2003-2020). El área correspondiente a estos datos es la zona costera oriental del **Parque Nacional Natural Tayrona**, Santa marta, colombia. (74W 11N; 73W 11N). 
 
 #### Ciclo anual :chart_with_upwards_trend:
 Se observa que las TSM por encima de 28°C se encuentran agrupadas en los meses de agosto, septiembre y octubre. Mientras que la TSM por debajo de 27°C esta en los meses de enero, febrero y marzo. Esto se asocia a la temporada lluviosa (A, S, O) y temporada seca (E, F, M) respectivamente, en el Caribe colombiano. 
